@@ -4,6 +4,7 @@ This is my very first GitHub :)
 
 Four  
 Five
-Six
-Seven
-I will skip the Eight
+Six  
+Seven  
+I will skip the Eight  
+Nine
